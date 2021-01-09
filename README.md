@@ -1,4 +1,4 @@
-![Myself](../Myself.jpg)
+![Myself](./Myself.jpg)
 # Nathan Bui
 ***Computer Engineering Major***
 
